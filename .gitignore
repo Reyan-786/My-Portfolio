@@ -1,3 +1,5 @@
-Scripts/
-Lib/
+Scripts
+Include
 pyvenv.cfg
+.idea
+
