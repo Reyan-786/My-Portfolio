@@ -8140,6 +8140,6 @@ function downloadResume() {
   }
 
   function openGoogleDrive() {
-    const googleDriveLink = 'https://drive.google.com/file/d/1116tZLCK__SdUApSPBEaMr3dLPveVPBN/view?usp=sharing';
+    const googleDriveLink = 'https://drive.google.com/file/d/1qd6k0tO9nPdQKaDC3WF9vxHA93xJRsYt/view?usp=sharing';
     window.open(googleDriveLink, '_blank');
   }
